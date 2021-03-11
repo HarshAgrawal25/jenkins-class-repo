@@ -1,3 +1,3 @@
-echo "this is jenkins first practical"
+echo "this is jenkins second practical"
 date
 ls
